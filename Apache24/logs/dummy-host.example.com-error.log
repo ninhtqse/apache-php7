@@ -1,0 +1,15 @@
+[Mon Jul 09 15:19:18.580402 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8388] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:19:19.419450 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8388] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:19:20.033485 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8388] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:19:20.530514 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8388] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:19:20.981539 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8388] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:19:21.315559 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8388] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:19:35.317359 2018] [authz_core:error] [pid 6480:tid 980] [client ::1:8390] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/
+[Mon Jul 09 15:19:35.358362 2018] [authz_core:error] [pid 6480:tid 980] [client ::1:8390] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/favicon.ico
+[Mon Jul 09 15:19:35.370362 2018] [authz_core:error] [pid 6480:tid 980] [client ::1:8390] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/favicon.ico
+[Mon Jul 09 15:19:59.622750 2018] [authz_core:error] [pid 6480:tid 980] [client 127.0.0.1:8392] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/public, referer: http://quyenhd.baohiemxahoidientu.vn/support/extension/index
+[Mon Jul 09 15:22:33.452548 2018] [authz_core:error] [pid 5740:tid 980] [client ::1:8409] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/
+[Mon Jul 09 15:22:40.850971 2018] [authz_core:error] [pid 5740:tid 980] [client 127.0.0.1:8418] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php
+[Mon Jul 09 15:23:59.632477 2018] [authz_core:error] [pid 5740:tid 980] [client 127.0.0.1:8522] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/public, referer: http://quyenhd.baohiemxahoidientu.vn/support/extension/index
+[Mon Jul 09 15:25:59.633341 2018] [authz_core:error] [pid 5740:tid 980] [client 127.0.0.1:8532] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/public, referer: http://quyenhd.baohiemxahoidientu.vn/support/extension/index
+[Mon Jul 09 15:26:43.794867 2018] [authz_core:error] [pid 9032:tid 980] [client ::1:8537] AH01630: client denied by server configuration: D:/EFYVN/WWW/test/test.php

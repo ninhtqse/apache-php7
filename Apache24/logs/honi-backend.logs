@@ -1,0 +1,2 @@
+[Wed May 13 19:19:39.927916 2020] [autoindex:error] [pid 11728:tid 1228] [client 127.0.0.1:58720] AH01276: Cannot serve directory D:/SERVER/WWW/home/honi-backend/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Wed May 13 19:19:42.361400 2020] [autoindex:error] [pid 11728:tid 1228] [client 127.0.0.1:58720] AH01276: Cannot serve directory D:/SERVER/WWW/home/honi-backend/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive

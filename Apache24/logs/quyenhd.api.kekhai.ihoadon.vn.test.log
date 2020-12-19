@@ -1,0 +1,1 @@
+[Mon Jul 16 16:44:31.037089 2018] [php7:error] [pid 2108:tid 828] [client 127.0.0.1:12556] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in D:\\EFYVN\\WWW\\Trien khai\\api.kekhai.ihoadon.vn.test\\database\\migrations\\2015_10_12_000000_create_users_table.php on line 64
